@@ -1,5 +1,4 @@
 # gabby_repo
-Something to show Gabby
 Calculator Tutorial
 Welcome to the Calculator Tutorial repository! This project is designed as an educational tool to help beginners understand the basics of using Python for simple mathematical operations and to introduce the essentials of using Git for version control.
 
